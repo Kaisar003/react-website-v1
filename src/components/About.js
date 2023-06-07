@@ -4,7 +4,7 @@ import "./About.css";
 function About() {
   return (
     <div className="about">
-     <h1>About<br><span class="text--grey">Us</span></h1>
+     <h1>About <span class="text--grey">Us</span></h1>
       <br />
       <p>
         At Connect4Good, we believe in the power of volunteering to create
