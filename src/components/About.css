@@ -1,12 +1,14 @@
-.about {
-  min-height: 100vh;
-  width: 100vw;
-  padding: 100px 50px 50px 50px;
-  background: black;
-  color: rgba(255, 255, 255, 0.8);
+h1 {
+  font-size: 2em;
 }
-@media (max-width: 500px) {
-  .videos::-webkit-scrollbar {
-    display: none;
+p {
+  font-size: 1em;
+}
+@media (min-width: 48rem) {
+  h1 {
+    font-size: 3em;
+  }
+  p {
+    font-size: 1.5em;
   }
 }

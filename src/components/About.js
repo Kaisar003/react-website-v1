@@ -4,22 +4,21 @@ import "./About.css";
 function About() {
   return (
     <div className="about">
-      <h1>About Us</h1>
-      <p>Hello, wishes from rideontrek.com</p>
+     <h1>About<br><span class="text--grey">Us</span></h1>
       <br />
       <p>
-        Trek Bicycle Corporation is a bicycle and cycling product manufacturer
-        and distributor under brand names Trek, Electra Bicycle Company,
-        Bontrager, and Diamant Bikes. The company has previously manufactured
-        bikes under the Gary Fisher, LeMond Racing Cycles, Klein, and Villiger
-        Bikes brand names.
+        At Connect4Good, we believe in the power of volunteering to create
+        positive change in communities. Our platform connects passionate
+        volunteers with meaningful volunteering opportunities that make a
+        difference in people's lives.
       </p>
       <br />
       <p>
-        Trek bikes are very good. Trek has a long history of making quality
-        bikes that are used by beginner, hobby, and elite cyclists around the
-        world. Trek bikes last for a long time and have excellent reselling
-        value years after purchase.
+        We are a dedicated team of individuals who are committed to promoting
+        social good and facilitating connections between volunteers and
+        nonprofit organizations. Our mission is to inspire, engage, and empower
+        individuals to contribute their time and skills for the betterment of
+        society.
       </p>
       <br />
     </div>
